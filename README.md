@@ -1,7 +1,7 @@
-### Oi! Eu sou Madu 😁
+### Bem vindo! Meu nome é Matheus.
 
 
-- 🌱 Atualmente estudando TI - Sistemas de Informação ...
+- 🌱 Estudante de TI - Sistemas de Informação ...
 - 💬 Foco no FullStack ...
 
 <div>
