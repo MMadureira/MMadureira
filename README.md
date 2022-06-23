@@ -1,8 +1,8 @@
-### Bem vindo! Meu nome é Matheus.
+### Hey, I'm Matheus Madureira.
 
 
-- 🌱 Estudante de TI - Sistemas de Informação ...
-- 💬 Foco no FullStack ...
+- Studing Information Systems.
+- Focus on Fullstack developer.
 
 <div>
   <a href="https://github.com/MMadureira">
