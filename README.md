@@ -1,7 +1,7 @@
 ### Hey, I'm Matheus Madureira.
 
 
-- Studing Information Systems.
+- Graduate Information Systems.
 - Focus on Fullstack developer.
 
 <div>
