@@ -2,7 +2,7 @@
 
 
 - Graduate Information Systems.
-- Focus on Fullstack developer.
+- Fullstack developer.
 
 <div>
   <a href="https://github.com/MMadureira">
